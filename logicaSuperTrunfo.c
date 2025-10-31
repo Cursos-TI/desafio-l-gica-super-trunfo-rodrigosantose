@@ -87,7 +87,7 @@
     printf("PIB: %.2f (unidade)\n", pibCarta2);
     printf("-> Densidade Calculada: %.2f hab/km²\n", densidadeCarta2);
 
-    // 5. Aqui compara os atributos e define o vencedor 
+    // 5. Aqui compara os atributos e define o vencedor         
     // Atributo "População" escolhido no código (maior vence). 
 
     printf("\n===========================================\n");
